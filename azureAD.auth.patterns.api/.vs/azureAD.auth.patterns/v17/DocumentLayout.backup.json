@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns\\azureAD.auth.patterns.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7BC50A-3D4F-4F50-99E3-A7BD6FF72947}|azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj|c:\\proyectos\\daniellopessoares82\\azuread-auth-patterns\\azuread.auth.patterns.api\\azuread.auth.patterns.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7BC50A-3D4F-4F50-99E3-A7BD6FF72947}|azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj|solutionrelative:azuread.auth.patterns.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7BC50A-3D4F-4F50-99E3-A7BD6FF72947}|azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj|c:\\proyectos\\daniellopessoares82\\azuread-auth-patterns\\azuread.auth.patterns.api\\azuread.auth.patterns.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F7BC50A-3D4F-4F50-99E3-A7BD6FF72947}|azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj|solutionrelative:azuread.auth.patterns.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7BC50A-3D4F-4F50-99E3-A7BD6FF72947}|azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj|c:\\proyectos\\daniellopessoares82\\azuread-auth-patterns\\azuread.auth.patterns.api\\azuread.auth.patterns.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7BC50A-3D4F-4F50-99E3-A7BD6FF72947}|azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj|solutionrelative:azuread.auth.patterns.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7BC50A-3D4F-4F50-99E3-A7BD6FF72947}|azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj|c:\\proyectos\\daniellopessoares82\\azuread-auth-patterns\\azuread.auth.patterns.api\\azuread.auth.patterns.api\\azuread.auth.patterns.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F7BC50A-3D4F-4F50-99E3-A7BD6FF72947}|azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj|solutionrelative:azuread.auth.patterns.api\\azuread.auth.patterns.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "azureAD.auth.patterns.api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "azureAD.auth.patterns.api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T16:33:57.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "azureAD.auth.patterns.api.csproj",
+              "DocumentMoniker": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj",
+              "RelativeDocumentMoniker": "azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj",
+              "ToolTip": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj",
+              "RelativeToolTip": "azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T16:31:03.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "azureAD.auth.patterns.api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "azureAD.auth.patterns.api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:30:35.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api\\Program.cs",
+              "RelativeDocumentMoniker": "azureAD.auth.patterns.api\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api\\Program.cs",
+              "RelativeToolTip": "azureAD.auth.patterns.api\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAApwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:30:20.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

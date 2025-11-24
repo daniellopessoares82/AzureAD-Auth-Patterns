@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj": {}
+    "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns-v2\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj": {
+    "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns-v2\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj",
+        "projectUniqueName": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns-v2\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj",
         "projectName": "azureAD.auth.patterns.api",
-        "projectPath": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj",
+        "projectPath": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns-v2\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api.csproj",
         "packagesPath": "C:\\Users\\BRX0001768\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns\\azureAD.auth.patterns.api\\azureAD.auth.patterns\\azureAD.auth.patterns.api\\obj\\",
+        "outputPath": "C:\\Proyectos\\daniellopessoares82\\AzureAD-Auth-Patterns-v2\\azureAD.auth.patterns.api\\azureAD.auth.patterns.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -51,6 +51,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

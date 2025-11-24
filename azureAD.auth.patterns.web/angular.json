@@ -65,7 +65,10 @@
               "buildTarget": "azureAD.auth.patterns.web:build:production"
             },
             "development": {
-              "buildTarget": "azureAD.auth.patterns.web:build:development"
+              "buildTarget": "azureAD.auth.patterns.web:build:development",
+              "ssl": false,
+              "host": "localhost",
+              "port": 4200
             }
           },
           "defaultConfiguration": "development"
