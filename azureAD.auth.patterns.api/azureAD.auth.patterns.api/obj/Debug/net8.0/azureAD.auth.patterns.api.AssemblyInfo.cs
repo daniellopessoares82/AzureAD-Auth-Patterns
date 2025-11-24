@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azureAD.auth.patterns.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d8b226c1967809b01a7ea74e087045f3fc8b2c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edf0e55a46de821bff0f2c20ba2092f873da920e")]
 [assembly: System.Reflection.AssemblyProductAttribute("azureAD.auth.patterns.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azureAD.auth.patterns.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
