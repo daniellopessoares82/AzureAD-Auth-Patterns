@@ -1,0 +1,6 @@
+@azureAD.auth.patterns.api_HostAddress = http://localhost:5285
+
+GET {{azureAD.auth.patterns.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

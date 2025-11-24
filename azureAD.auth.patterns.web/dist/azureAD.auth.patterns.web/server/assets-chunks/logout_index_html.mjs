@@ -1,0 +1,12 @@
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
+  <meta charset="utf-8">
+  <title>AzureADAuthPatternsWeb</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles-5INURTSO.css"><style ng-app-id="ng">.container[_ngcontent-ng-c1140206436]{max-width:400px;margin:2rem auto;text-align:center}</style></head>
+<body><!--nghm-->
+  <app-root ng-version="21.0.0" ngh="1" ng-server-context="ssg"><router-outlet></router-outlet><app-logout _nghost-ng-c1140206436 ngh="0"><div _ngcontent-ng-c1140206436 class="container"><h2 _ngcontent-ng-c1140206436>Logout</h2><p _ngcontent-ng-c1140206436>Saindo...</p></div></app-logout><!----></app-root>
+<link rel="modulepreload" href="chunk-43CL6XLF.js"><script src="main-QJVV6BRJ.js" type="module"></script>
+
+<script id="ng-state" type="application/json">{"__nghData__":[{},{"c":{"0":[{"i":"c1140206436","r":1}]}}]}</script></body></html>`;
